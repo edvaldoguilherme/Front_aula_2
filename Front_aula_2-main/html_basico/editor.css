@@ -1,0 +1,58 @@
+table{
+    border: 1px solid white;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+a{
+    color: aliceblue;
+}
+nav{
+    size: 100% 24%;
+    text-align: center;
+    color: #DB2925;
+    position: fixed;
+}
+footer{
+    size:100% 20%;
+    position: relative;
+    top:0%;
+
+}
+.fundo{
+    background-color: white;
+    color: #DB2925;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.fundao{
+    background-color: white;
+    color: #DB2925;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.titulo{
+    background-color: white;
+    color: #DB2925;
+    text-align: center;
+}
+
+.tamanho{
+    size: 200px;
+}
+.botoes{
+    text-align: center;
+    border: none;
+    width: 80px;
+    height: 80px;
+    color:#DB2925;
+    background-color: white;
+    border: 4px solid;
+    border-radius: 400px;
+    margin: 10px;
+    cursor: pointer; 
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
